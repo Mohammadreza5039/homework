@@ -1,0 +1,37 @@
+.parent{
+    background-color:yellow;
+    height: 100vh; 
+}
+
+.header{
+    height: 200px;
+    background-color: gray;
+}
+.content-body{
+background-color: antiquewhite;
+}
+
+.left , .right{
+    display: inline-block;
+    background-color: blueviolet;
+}
+
+.right{
+    width: 20%;
+}
+
+.left{
+    width: 79%;
+}
+
+.main-top , .main-bottom{
+    height: 400px;
+    background-color: chartreuse;
+}
+
+.main-top > div{
+    display: inline-block;
+    width: 33%;
+    background-color: violet;
+    height: 90%;
+}

@@ -1,0 +1,36 @@
+
+.header{
+    background-color: blue;
+}
+.left{
+    background-color: chartreuse;
+    display: inline-block;
+    height: 200px;
+    width:  49%;
+}
+.right{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 200px;
+    width:  49%;
+}
+.header2{
+    background-color: black;
+
+}
+.left2{
+    background-color: chocolate;
+    display: inline-block;
+    height:200px;
+    width: 25%;
+}
+.right2{
+    background-color: cornflowerblue;
+    display: inline-block;
+    height:200px;
+    width: 75%;
+}
+.header3{
+    background-color: aqua;
+    
+}
