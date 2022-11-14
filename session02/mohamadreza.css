@@ -1,36 +1,114 @@
-
-.header{
+.header {
     background-color: blue;
 }
-.left{
+
+.left {
     background-color: chartreuse;
     display: inline-block;
     height: 200px;
-    width:  49%;
+    width: 49%;
 }
-.right{
+
+.right {
     background-color: blueviolet;
     display: inline-block;
     height: 200px;
-    width:  49%;
+    width: 49%;
 }
-.header2{
+
+.header2 {
     background-color: black;
 
 }
-.left2{
+
+.left2 {
     background-color: chocolate;
     display: inline-block;
-    height:200px;
-    width: 25%;
+    height: 200px;
+    width: 20%;
 }
-.right2{
+
+.right2 {
     background-color: cornflowerblue;
     display: inline-block;
-    height:200px;
-    width: 75%;
+    height: 200px;
+    width: 70%;
 }
-.header3{
+
+.header3 {
     background-color: aqua;
-    
+
+}
+
+.header3 {
+    background-color: white;
+
+}
+
+.left3 {
+    background-color: cornsilk;
+
+    height: 200px;
+    display: inline-block;
+    width: 22%;
+
+}
+
+.وسط {
+    background-color: darkgreen;
+    display: inline-block;
+    height: 200px;
+    width: 63%;
+
+}
+
+
+.right3{
+    background-color: beige;
+    display: inline-block;
+    height: 200px;
+    width: 10%;
+}
+
+
+.header4{
+    background-color: beige;
+
+}
+
+.left4{
+    background-color: beige;
+    display: inline-block;
+    height: 200px;
+    width: 49%;
+}
+
+
+.d1{
+    background-color: black;
+    display: inline-block;
+    height: 200px;
+    width: 41%;
+
+}
+.d2{
+    background-color: navy;
+    display: inline-block;
+    height: 200px;
+    width: 40%;
+
+}
+
+.right4{
+    background-color: beige;
+    display: inline-block;
+    height: 200px;
+    width: 49%;
+
+}
+.d3{
+    background-color: rgb(105, 34, 81);
+    display: inline-block;
+    height: 200px;
+    width: 40%;
 }
